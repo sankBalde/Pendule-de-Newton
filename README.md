@@ -23,5 +23,5 @@ Le projet utilise :
 - Un compilateur compatible C++11 (ou supérieur).
 - [Optionnel] Visual Studio Code pour utiliser le fichier `vscode.code-workspace`.
 
-![video demo](demo.mp4)
+![video demo](demo_pendule.gif)
    
